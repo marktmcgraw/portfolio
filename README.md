@@ -1,6 +1,6 @@
 # Portfolio with Bootstrap
 
-This is my updated portfolio webpage using Bootstrap tools. Our assignment is to create responsive layout that fits a variety of screen sizes while remaining visually appealing for the user.
+This is my updated portfolio webpage using Bootstrap tools for a responsive layout.
 
 ## Deployed Site
 
