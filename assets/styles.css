@@ -19,10 +19,23 @@ body {
 
 }
 
+.card {
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
 
 .card-img {
 
-    padding: 10px;
+  padding: 15px;
+  margin-bottom: auto;
+}
+
+.card-link {
+
+    color: #DF744A;
 }
 
 .contact-form {
