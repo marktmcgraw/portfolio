@@ -4,4 +4,4 @@ This is my updated portfolio webpage using Bootstrap tools for a responsive layo
 
 ## Deployed Site
 
-[Link](https://marktmcgraw.github.io/portfolio-with-bootstrap/)
+[Link](https://marktmcgraw.github.io/portfolio)
