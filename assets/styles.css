@@ -1,11 +1,12 @@
 body {
 
     height: 100%;
-    background-image: url("./images/white-painted-wall.jpg");
+    background-image: url("./images/white-painted-wall.jpg"); 
     padding: 50px;
     font-family: 'Nunito', sans-serif;
     position: relative;
 }
+
 
 .navbar {
     font-family: 'Nunito', sans-serif;
@@ -19,6 +20,14 @@ body {
 
 }
 
+.about-main {
+    background-color: white;
+    width: 80%;
+    padding: 25px, 25px;
+    text-align: center;
+}
+
+
 .card {
     margin: 0 auto;
     left: 0;
@@ -27,15 +36,26 @@ body {
     bottom: 0;
 }
 
-.card-img {
+.body {
+    margin: 15px;
+    padding: 15px;
+    background-color: white;
+}
 
-  padding: 15px;
+.img {
+width: 250px;
   margin-bottom: auto;
 }
 
 .card-link {
 
     color: #DF744A;
+}
+
+.card-link:hover {
+
+    color: #DCB239;
+    text-decoration: none;
 }
 
 .contact-form {
@@ -45,10 +65,22 @@ body {
 
 .submit {
     background-color: #DF744A;
+    border-radius: 1px;
+    border-color: #DF744A;
+    color: white;
+}
+
+.submit:active {
+    background-color: #DCB239;
+    border-color: #DCB239;
+    color: white;
 }
 
 .submit:hover {
-    background-color: #DCB239;
+
+    background-color: #BFD8D2;
+    border-color: #BFD8D2;
+    color: black;
 }
 
 .footer {
